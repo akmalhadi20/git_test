@@ -1,1 +1,2 @@
 Hello World! I'm on my journey to become web developer with The Odin Project.
+Now i'm trying to repeat the process myself.
